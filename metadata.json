@@ -1,0 +1,6 @@
+{
+  "name": "Domi HR - Titanz Management System",
+  "description": "Enterprise Employee Management, Attendance, Decimal-Safe Payroll, Payslip Printing, and AI OCR Document Processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
